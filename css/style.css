@@ -1,0 +1,112 @@
+.clear {clear: both;}
+
+body {
+    background-color: #eefffe;
+}
+
+header {
+    padding-top: 0px;
+    background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+}
+
+h1 {
+    font-family: "special elite";
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+
+nav {
+    font-family: montserrat;
+    margin: 0 auto;
+    width: 200px;
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    font-family: montserrat;
+    margin: 0 auto;
+    width: 700px;
+    text-align: justify;
+}
+
+.rij {
+    width: 850px;
+    margin: 0 auto;
+    border: 100px;
+}
+
+.hobby {
+    float: left;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.bloktekst {
+    width: 250px;
+}
+
+.playlist {
+    margin: 0 auto;
+    width: 250px;
+    padding-top: 20px;
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+}
+
+.blokfoto {
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.pic {
+    width: 300px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+
+.pic1 {
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.ik {
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+footer {
+    background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+}
